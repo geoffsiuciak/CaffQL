@@ -1,0 +1,116 @@
+{
+  "data": {
+    "__schema": {
+      "types": [
+        {
+          "name": "Query",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "String",
+          "kind": "SCALAR"
+        },
+        {
+          "name": "ID",
+          "kind": "SCALAR"
+        },
+        {
+          "name": "Mutation",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "Episode",
+          "kind": "ENUM"
+        },
+        {
+          "name": "Character",
+          "kind": "INTERFACE"
+        },
+        {
+          "name": "Int",
+          "kind": "SCALAR"
+        },
+        {
+          "name": "LengthUnit",
+          "kind": "ENUM"
+        },
+        {
+          "name": "Human",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "Float",
+          "kind": "SCALAR"
+        },
+        {
+          "name": "Droid",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "FriendsConnection",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "FriendsEdge",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "PageInfo",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "Boolean",
+          "kind": "SCALAR"
+        },
+        {
+          "name": "Review",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "ReviewInput",
+          "kind": "INPUT_OBJECT"
+        },
+        {
+          "name": "Starship",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "SearchResult",
+          "kind": "UNION"
+        },
+        {
+          "name": "__Schema",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__Type",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__TypeKind",
+          "kind": "ENUM"
+        },
+        {
+          "name": "__Field",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__InputValue",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__EnumValue",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__Directive",
+          "kind": "OBJECT"
+        },
+        {
+          "name": "__DirectiveLocation",
+          "kind": "ENUM"
+        }
+      ]
+    }
+  }
+}
